@@ -15,5 +15,6 @@ int main()
                but due to int data type demolition occurs we get
                19
     This is how operator precedence occurs.
-     */
+    Having equal precedence most of the operators show left to right associativity. 
+    But some exceptions are there. */
 }
